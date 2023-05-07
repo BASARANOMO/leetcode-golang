@@ -15,3 +15,7 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Math
 
 [2413. Smallest Even Multiple](https://github.com/BASARANOMO/leetcode-golang/tree/main/solutions/Easy/2413.%20Smallest%20Even%20Multiple)
+
+### Simulation
+
+[1419. Minimum Number of Frogs Croaking](https://github.com/BASARANOMO/leetcode-golang/tree/main/solutions/Medium/1419.%20Minimum%20Number%20of%20Frogs%20Croaking)
